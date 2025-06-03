@@ -3,15 +3,12 @@ Title: MotivatoR is a simple and light R package designed to provide random moti
 Version: 0.0.0.9000
 Authors@R: 
     person("Luz Garcia-Longoria", "Carlos Mora Rubio", , "luzlongoria@unex.es", role = c("aut", "cre"))
-
 Description: MotivatoR is a simple and light R package designed to provide random motivational messages. It's a fun and encouraging way to keep your spirits high while coding, analyzing data, or navigating through scientific work.
 This project was inspired by an idea from Carlos Mora Rubio, to whom I dedicate this package with appreciation.
-
 Installation : install.packages("devtools")  ### in case you need it
 devtools::install_github("luzlongoria/MotivatoR") ## for dowloading to your R sesion
 library(MotivatoR)
 motivation() #### for getting motivational messages whenever you want :)
-
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
