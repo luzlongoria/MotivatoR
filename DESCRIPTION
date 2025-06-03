@@ -3,8 +3,7 @@ Title: Provide Random Motivational Messages
 Version: 0.0.0.9000
 Authors@R: c(
     person("Luz", "Garcia-Longoria", email = "luzlongoria@unex.es", role = c("aut", "cre")),
-    person("Carlos", "Mora Rubio", role = "aut")
-)
+    person("Carlos", "Mora Rubio", role = "aut"))
 Description: A simple and lightweight R package that provides random motivational messages
     to keep users encouraged while coding, analyzing data, or working on scientific projects.
 License: MIT + file LICENSE
